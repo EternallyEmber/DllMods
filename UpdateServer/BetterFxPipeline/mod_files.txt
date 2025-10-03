@@ -1,9 +1,0 @@
-add BetterFxPipeline.dll
-add BetterFxPipeline.json
-add disk/bb3/BetterFxPipeline.ar.00
-add disk/bb3/BetterFxPipeline.arl
-delete disk/bb3/FxFXAA.ar.00
-delete disk/bb3/FxFXAA.arl
-delete disk/bb3/SWA.ar.00
-delete disk/bb3/SWA.arl
-add mod.ini
