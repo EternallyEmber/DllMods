@@ -4,3 +4,6 @@
 [submodule "Include/LWAPI"]
 	path = Include/LWAPI
 	url = https://github.com/hedge-dev/LWAPI
+[submodule "Include/BlueBlur-go"]
+	path = Include/BlueBlur-go
+	url = https://github.com/EternallyEmber/BlueBlur-go.git
